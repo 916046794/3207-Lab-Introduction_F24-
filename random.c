@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 char randchar(){
 	int asciiIndex = 0;
 	int asciiCode = 0;
